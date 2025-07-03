@@ -1,0 +1,1 @@
+// variable and loops nad functions works as js . but this all functions are defined in JS
